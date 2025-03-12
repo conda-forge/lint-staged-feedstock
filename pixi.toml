@@ -4,11 +4,11 @@
 
 [project]
 name = "lint-staged-feedstock"
-version = "3.45.4"
+version = "3.47.0"
 description = "Pixi configuration for conda-forge/lint-staged-feedstock"
 authors = ["@conda-forge/lint-staged"]
 channels = ["conda-forge"]
-platforms = ['linux-64', 'osx-64', 'win-64']
+platforms = ["linux-64", "osx-64", "win-64"]
 
 [dependencies]
 conda-build = ">=24.1"
