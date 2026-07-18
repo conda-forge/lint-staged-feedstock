@@ -1,5 +1,5 @@
 context:
-  version: "17.0.8"
+  version: "17.1.0"
 
 package:
   name: lint-staged
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/lint-staged/-/lint-staged-${{ version }}.tgz
-  sha256: b5167a2110b6525bbe511c7b7aa0f231f4c36bac34cb2e87f9958c4c997757e7
+  sha256: 9b535540b6e948a5d5c86ca1cd0005580b99d7da0187e098e084f888cbcc7727
 
 build:
   number: 0
